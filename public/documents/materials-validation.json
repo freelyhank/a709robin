@@ -1,0 +1,56 @@
+{
+  "brand": "Dueframe",
+  "slug": "dueframe",
+  "source_text_preserved": true,
+  "business_plan_palette_matches_identity": true,
+  "source_sha256": "9b9e6b0381fe7d016930c5a73d56ceb4fb7dab7258e87b96d21083e635e5c05d",
+  "tables": 12,
+  "pdf_pages": 17,
+  "monetary_values_checked": 40,
+  "missing_monetary_values": [],
+  "blank_pages": 0,
+  "post_characters": [
+    220,
+    242,
+    222
+  ],
+  "bio_characters": 130,
+  "social_dimensions": {
+    "01-introducing-dueframe.jpg": [
+      1600,
+      900
+    ],
+    "02-release-map.jpg": [
+      1600,
+      900
+    ],
+    "03-shared-timing.jpg": [
+      1600,
+      900
+    ],
+    "avatar.jpg": [
+      400,
+      400
+    ],
+    "avatar.png": [
+      400,
+      400
+    ],
+    "banner.jpg": [
+      1500,
+      500
+    ]
+  },
+  "public_parity": {
+    "business-plan.md": true,
+    "business-plan.html": true,
+    "business-plan.pdf": true,
+    "contracts.md": true,
+    "research.md": true,
+    "launch-checklist.md": true,
+    "name-availability.md": true
+  },
+  "brand_kit_files": 25,
+  "visual_review": "Social compositions and all PDF pages inspected as contact sheets; no clipped headlines, blank pages, or overlapping table text observed.",
+  "identity_status": "Prepared identity; registration not performed"
+}

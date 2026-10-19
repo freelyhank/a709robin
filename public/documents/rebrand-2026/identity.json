@@ -1,0 +1,26 @@
+{
+  "name": "Dueframe",
+  "slug": "dueframe",
+  "tagline": "Make timing accountable.",
+  "domain": "dueframe.xyz",
+  "handle": "@dueframe",
+  "identityStatus": "Prepared identity; registration not performed",
+  "pronunciation": "DOO-frame",
+  "roots": [
+    "due",
+    "frame",
+    "release"
+  ],
+  "meaning": "A clear frame for commitments that unlock over time.",
+  "palette": {
+    "ink": "#101828",
+    "blue": "#e04f39",
+    "accessibleBlue": "#b9382b",
+    "muted": "#526173",
+    "line": "#c9d4e1",
+    "paper": "#ffffff",
+    "mist": "#eaf0f6",
+    "pale": "#dce8f2",
+    "orange": "#f2b84b"
+  }
+}
